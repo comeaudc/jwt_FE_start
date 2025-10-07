@@ -38,7 +38,7 @@ const SignUp = ({ setNewUser }) => {
           placeholder='Confirm Password'
           minLength='6'
         />
-        <button type='submit'>Sign In</button>
+        <button type='submit'>Sign Up</button>
       </form>
       <p>
         Already have an account? <button onClick={handleClick}>Sign In</button>
